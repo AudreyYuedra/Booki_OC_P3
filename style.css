@@ -259,8 +259,6 @@ button {
 }
 
 .hebergements-and-populaires section {
-    background-color: var(--main-bg-color);
-    border-radius: 20px;
     padding: 30px;
     box-sizing: border-box;
 }
@@ -462,7 +460,7 @@ footer {
     }
 
     .hebergements {
-        width: 93%;
+        width: 100%;
     }
 
     .hebergements-cards {
@@ -474,7 +472,7 @@ footer {
     }
 
     .populaires {
-        width: 93%;
+        width: 100%;
         margin-top: 30px;
     }
 
@@ -611,7 +609,7 @@ footer {
 
     .hebergements {
         width: 100%;
-        background-color: none;
+        background-color: transparent;
     }
 
     .hebergements-cards {
